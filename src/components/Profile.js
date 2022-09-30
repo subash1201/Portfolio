@@ -43,7 +43,7 @@ const Profile = () => {
           </a>
         </div>
         <a
-          href="https://drive.google.com/file/d/11UQvlumK_QiKmgz6cfYB2ptizCuzt4BY/view?usp=sharing"
+          href="https://drive.google.com/file/d/1iusPkY_7dp0Lh6TDylrdYJoSQI7v0jMa/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
           download="Subash_Resume.pdf"
