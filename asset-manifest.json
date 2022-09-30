@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.591b538a.chunk.css",
+    "main.js": "/portfolio/static/js/main.18136da7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.18136da7.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.7a956ebb.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.7a956ebb.js.map",
+    "static/js/2.c19cbecb.chunk.js": "/portfolio/static/js/2.c19cbecb.chunk.js",
+    "static/js/2.c19cbecb.chunk.js.map": "/portfolio/static/js/2.c19cbecb.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.591b538a.chunk.css.map": "/portfolio/static/css/main.591b538a.chunk.css.map",
+    "static/js/2.c19cbecb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c19cbecb.chunk.js.LICENSE.txt",
+    "static/media/React.6fd6f08b.jpg": "/portfolio/static/media/React.6fd6f08b.jpg",
+    "static/media/Webdev.659bed30.jpg": "/portfolio/static/media/Webdev.659bed30.jpg",
+    "static/media/contact.f535206c.jpg": "/portfolio/static/media/contact.f535206c.jpg",
+    "static/media/foodorderapp.ea282bea.png": "/portfolio/static/media/foodorderapp.ea282bea.png",
+    "static/media/quotes.4cf3105f.png": "/portfolio/static/media/quotes.4cf3105f.png",
+    "static/media/subashpic.4407c77f.png": "/portfolio/static/media/subashpic.4407c77f.png",
+    "static/media/taskdo.93ff4b4c.png": "/portfolio/static/media/taskdo.93ff4b4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a956ebb.js",
+    "static/js/2.c19cbecb.chunk.js",
+    "static/css/main.591b538a.chunk.css",
+    "static/js/main.18136da7.chunk.js"
+  ]
+}
